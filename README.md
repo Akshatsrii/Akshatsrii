@@ -18,7 +18,7 @@
 - 💼 Portfolio: **[protfolio-531z.vercel.app](https://protfolio-531z.vercel.app/)**
 - 💬 Ask me about **MERN Stack, Socket.IO, Real-time Applications**
 - 📫 Reach me: **akshatrai433@gmail.com**
-- 📄 My Resume: **[View Resume](https://protfolio-531z.vercel.app/resume)**
+- 📄 My Resume: **[Download PDF](https://github.com/Akshatsrii/Akshatsrii/raw/main/Akshat_Srivastava_Resume.pdf)** | **[View Online](https://protfolio-531z.vercel.app/resume)**
 - ⚡ Fun fact: **Solved 100+ DSA problems & participated in 50+ hackathons!**
 
 <br clear="right"/>
@@ -373,9 +373,7 @@ Full-stack Car Rental application with modern UI and complete real-world functio
 
 <div align="center">
 
-### 💡 *"First, solve the problem. Then, write the code."* – John Johnson
-
-### 🌟 Show some ❤️ by starring my repositories!
+### 💡 *"First, solve the problem. Then, write the code."* 
 
 ### 📧 **Let's Connect:** [akshatrai433@gmail.com](mailto:akshatrai433@gmail.com)
 
