@@ -18,7 +18,6 @@
 - 💼 Portfolio: **[protfolio-531z.vercel.app](https://protfolio-531z.vercel.app/)**
 - 💬 Ask me about **MERN Stack, Socket.IO, Real-time Applications**
 - 📫 Reach me: **akshatrai433@gmail.com**
-- 📄 My Resume: **[Download PDF](https://github.com/Akshatsrii/Akshatsrii/raw/main/Akshat_Srivastava_Resume.pdf)** | **[View Online](https://protfolio-531z.vercel.app/resume)**
 - ⚡ Fun fact: **Solved 100+ DSA problems & participated in 50+ hackathons!**
 
 <br clear="right"/>
