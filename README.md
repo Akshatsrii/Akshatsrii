@@ -72,6 +72,56 @@
 
 <br>
 
+
+## 📊 GitHub Stats:
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Akshatsrii&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6ec7&icon_color=ff6ec7&text_color=c9d1d9" alt="GitHub Stats" />
+
+**⭐ Total Stars Earned:** 22+
+
+**🔄 Total Commits (last year):** 400+
+
+**🔀 Total PRs:** 15
+
+**🐛 Total Issues:** 4
+
+**📦 Contributed to (last year):** 12
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Akshatsrii&theme=radical&hide_border=true&background=1a1b27&ring=ff6ec7&fire=ff6ec7&currStreakLabel=ff6ec7" alt="GitHub Streak" />
+
+</td>
+<td width="50%" align="center">
+
+### Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatsrii&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6ec7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
+**💛 JavaScript** 45.20%
+
+**🎨 CSS** 16.85%
+
+**📄 HTML** 14.75%
+
+**💙 TypeScript** 12.40%
+
+**⚙️ C++** 8.50%
+
+**☕ Java** 2.30%
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
 ## 🔥 Contribution Graph:
 
 <div align="center">
@@ -111,6 +161,7 @@
 
 <br>
 
+
 ## 💼 Work Experience:
 
 ```text
@@ -126,24 +177,6 @@
    ├─ Integrated JWT & Clerk authentication for secure access
    └─ Optimized RESTful APIs and database queries
 ```
-
-<br>
-
-## 🎯 Competitive Programming & Problem Solving:
-
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Akshatsrivastava007?theme=dark&font=Karma&ext=heatmap)
-
-</div>
-
-- 💪 Solved **100+ DSA problems** on LeetCode
-- 🏅 Participated in **50+ hackathons** on Unstop
-- 🧠 Strong foundation in **Data Structures & Algorithms**
-- 🔥 Active problem solver in competitive programming
-
-<br>
-
 
 ## 💡 Skills Summary:
 
