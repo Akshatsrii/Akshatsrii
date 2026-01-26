@@ -17,7 +17,7 @@
 - 👯 Looking to collaborate on **Open Source MERN Stack Projects**
 - 💼 Portfolio: **[protfolio-531z.vercel.app](https://protfolio-531z.vercel.app/)**
 - 💬 Ask me about **MERN Stack, Socket.IO, Real-time Applications**
-- 📫 Reach me: **akshatrai433@gmail.com**
+- 📫 Reach me: **akshatsrivastava1204@gmail.com**
 - ⚡ Fun fact: **Solved 100+ DSA problems & participated in 50+ hackathons!**
 
 <br clear="right"/>
