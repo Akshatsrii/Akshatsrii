@@ -73,55 +73,6 @@
 <br>
 
 
-## 📊 GitHub Stats:
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akshatsrii&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6ec7&icon_color=ff6ec7&text_color=c9d1d9" alt="GitHub Stats" />
-
-**⭐ Total Stars Earned:** 22+
-
-**🔄 Total Commits (last year):** 400+
-
-**🔀 Total PRs:** 15
-
-**🐛 Total Issues:** 4
-
-**📦 Contributed to (last year):** 12
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Akshatsrii&theme=radical&hide_border=true&background=1a1b27&ring=ff6ec7&fire=ff6ec7&currStreakLabel=ff6ec7" alt="GitHub Streak" />
-
-</td>
-<td width="50%" align="center">
-
-### Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatsrii&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6ec7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
-**💛 JavaScript** 45.20%
-
-**🎨 CSS** 16.85%
-
-**📄 HTML** 14.75%
-
-**💙 TypeScript** 12.40%
-
-**⚙️ C++** 8.50%
-
-**☕ Java** 2.30%
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
 ## 🔥 Contribution Graph:
 
 <div align="center">
@@ -131,33 +82,6 @@
 </div>
 
 <br>
-
-## 📈 Contribution Activity:
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshatsrii&theme=radical" alt="Contribution Details" />
-
-<table>
-<tr>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshatsrii&theme=radical" alt="Repos per Language" />
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akshatsrii&theme=radical" alt="Most Commit Language" />
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akshatsrii&theme=radical" alt="Stats" />
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akshatsrii&theme=radical&utcOffset=5.5" alt="Productive Time" />
-</td>
-</tr>
-</table>
-
-</div>
 
 <br>
 
