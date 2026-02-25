@@ -85,23 +85,6 @@
 
 <br>
 
-
-## 💼 Work Experience:
-
-```text
-🚀 Full Stack Engineer Intern @ Curious Team Learning Pvt. Ltd. (June 2025 – Present)
-   ├─ Developing scalable applications using Angular & Three.js
-   ├─ Building interactive 3D visualizations and dynamic UI components
-   ├─ Designing RESTful APIs with Node.js & Express.js
-   └─ Following MVC and modular design patterns
-
-💻 Software Development Engineer (SDE) Intern @ Market Things (May 2025 – Aug 2025)
-   ├─ Developed full-stack MERN applications with real-time features
-   ├─ Implemented Socket.IO for live doctor-patient interactions
-   ├─ Integrated JWT & Clerk authentication for secure access
-   └─ Optimized RESTful APIs and database queries
-```
-
 ## 💡 Skills Summary:
 
 <table>
