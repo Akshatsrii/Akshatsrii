@@ -127,7 +127,7 @@
 
 ### 💡 *"First, solve the problem. Then, write the code."* 
 
-### 📧 **Let's Connect:** [akshatrai433@gmail.com](mailto:akshatrai433@gmail.com)
+### 📧 **Let's Connect:** [akshatsrivastava1204@gmail.com](mailto:akshatrai433@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
 
