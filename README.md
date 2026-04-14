@@ -72,19 +72,6 @@
 
 <br>
 
-
-## 🔥 Contribution Graph:
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshatsrii&theme=react-dark&hide_border=true&area=true&bg_color=1a1b27&color=ff6ec7&line=ff6ec7&point=c9d1d9" alt="Contribution Graph" />
-
-</div>
-
-<br>
-
-<br>
-
 ## 💡 Skills Summary:
 
 <table>
