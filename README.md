@@ -15,7 +15,7 @@
 - 🔭 Currently working as **Full Stack Engineer Intern @ Curious Team Learning**
 - 🌱 Learning **Angular, Three.js, WebRTC & Advanced System Design**
 - 👯 Looking to collaborate on **Open Source MERN Stack Projects**
-- 💼 Portfolio: **[https://portfolio-531z.vercel.app/](https://portfolio-531z.vercel.app/)**
+- 💼 Portfolio: **[https://protfolio-531z.vercel.app/](https://portfolio-531z.vercel.app/)**
 - 🐙 GitHub: **[https://github.com/Akshatsrii](https://github.com/Akshatsrii)**
 - 💬 Ask me about **MERN Stack, Socket.IO, Real-time Applications**
 - 📫 Reach me at: **akshatsrivastava1204@gmail.com**
@@ -30,7 +30,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshatsrii)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akshattsrivastavaa)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Akshatsrivastava007)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff6ec7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-531z.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff6ec7?style=for-the-badge&logo=vercel&logoColor=white)](https://protfolio-531z.vercel.app//)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatsrivastava1204@gmail.com)
 
 <br>
