@@ -15,7 +15,6 @@
 - 🔭 Currently working as **Full Stack Engineer Intern @ Curious Team Learning**
 - 🌱 Learning **Angular, Three.js, WebRTC & Advanced System Design**
 - 👯 Looking to collaborate on **Open Source MERN Stack Projects**
-- 💼 Portfolio: **[https://protfolio-531z.vercel.app/](https://portfolio-531z.vercel.app/)**
 - 🐙 GitHub: **[https://github.com/Akshatsrii](https://github.com/Akshatsrii)**
 - 💬 Ask me about **MERN Stack, Socket.IO, Real-time Applications**
 - 📫 Reach me at: **akshatsrivastava1204@gmail.com**
@@ -76,10 +75,9 @@
 <td width="33%">
 
 ### Database & Tools
-- MongoDB, PostgreSQL  
-- AWS, Docker  
+- MongoDB, PostgreSQL    
 - Git, GitHub, Postman  
-- VS Code, Figma  
+- VS Code 
 
 </td>
 </tr>
