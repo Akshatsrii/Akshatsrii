@@ -77,7 +77,6 @@
 ### Database & Tools
 - MongoDB, PostgreSQL    
 - Git, GitHub, Postman  
-- VS Code 
 
 </td>
 </tr>
