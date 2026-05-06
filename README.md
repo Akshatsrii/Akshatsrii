@@ -1,7 +1,9 @@
 <div align="center">
 
 # Hi 👋, I'm Akshat Srivastava
+
 ### Full Stack Engineer | MERN Stack Developer | Problem Solver
+
 ![Profile views](https://komarev.com/ghpvc/?username=Akshatsrii&label=Profile%20views&color=ff6ec7&style=flat)
 
 </div>
@@ -55,26 +57,26 @@
 <td width="33%">
 
 ### Frontend
-- React.js, Next.js
-- Angular, Three.js
-- JavaScript, TypeScript
-- Tailwind CSS, HTML/CSS
+- React.js, Next.js  
+- Angular, Three.js  
+- JavaScript, TypeScript  
+- Tailwind CSS, HTML/CSS  
 
 </td>
 <td width="33%">
 
 ### Backend
-- Node.js, Express.js
-- REST APIs, Socket.IO
-- JWT Authentication
-- WebRTC, WebSockets
+- Node.js, Express.js  
+- REST APIs, Socket.IO  
+- JWT Authentication  
+- WebRTC, WebSockets  
 
 </td>
 <td width="33%">
 
 ### Database & Tools
-- MongoDB, PostgreSQL
-- Git, GitHub, Postman
+- MongoDB, PostgreSQL    
+- Git, GitHub, Postman  
 
 </td>
 </tr>
@@ -82,19 +84,13 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshatsrii/Akshatsrii/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshatsrii/Akshatsrii/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Akshatsrii/Akshatsrii/output/github-contribution-grid-snake.svg" />
-</picture>
-
 ---
 
 <div align="center">
 
 ### 💡 *"First, solve the problem. Then, write the code."*
 
-### 📧 **Let's Connect:**
+### 📧 **Let's Connect:**  
 **akshatsrivastava1204@gmail.com**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
