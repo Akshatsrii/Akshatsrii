@@ -18,7 +18,7 @@
 - 🐙 GitHub: **[https://github.com/Akshatsrii](https://github.com/Akshatsrii)**
 - 💬 Ask me about **MERN Stack, Socket.IO, Real-time Applications**
 - 📫 Reach me at: **akshatsrivastava1204@gmail.com**
-- ⚡ Fun fact: **Solved 205 DSA problems and participated in 50+ hackathons**
+- ⚡ Fun fact: **Solved 206 DSA problems and participated in 50+ hackathons**
 
 <br clear="right"/>
 
