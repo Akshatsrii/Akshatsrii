@@ -3,7 +3,6 @@
 # Hi 👋, I'm Akshat Srivastava
 ### Full Stack Engineer | MERN Stack Developer | Problem Solver
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%40+Curious+Team+Learning;MERN+Stack+Developer+%F0%9F%9A%80;Real-time+App+Builder+with+Socket.IO+%E2%9A%A1;238+DSA+Problems+%26+50%2B+Hackathons+%F0%9F%8F%86)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Akshatsrii&label=Profile%20views&color=ff6ec7&style=flat)
 
