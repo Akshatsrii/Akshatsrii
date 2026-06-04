@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="55%"/>
-
-# Hi 👋, I'm Akshat Srivastava
+  # Hi 👋, I'm Akshat Srivastava
 ### Full Stack Engineer | MERN Stack Developer | Problem Solver
 
 ![Profile views](https://komarev.com/ghpvc/?username=Akshatsrii&label=Profile%20views&color=ff6ec7&style=flat)
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="55%"/>
 
 ## 🚀 About Me
 
