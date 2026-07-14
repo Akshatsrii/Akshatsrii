@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working as **Full Stack Engineer Intern @ Curious Team Learning**
-- 🌱 Learning **Angular, Three.js, WebRTC & Advanced System Design**
+- 🌱 Learning **Firebase, Docker, WebRTC & LLD System Design**
 - 👯 Looking to collaborate on **Open Source MERN Stack Projects**
 - 🐙 GitHub: **[https://github.com/Akshatsrii](https://github.com/Akshatsrii)**
 - 💬 Ask me about **MERN Stack, Socket.IO, Real-time Applications**
