@@ -17,9 +17,9 @@
 - 🔭 Currently working as **Full Stack Engineer Intern @ Curious Team Learning**
 - 🌱 Learning **Firebase, Docker, WebRTC & LLD System Design**
 - 👯 Looking to collaborate on **Open Source MERN Stack Projects**
-- 🐙 GitHub: **[https://github.com/Akshatsrii](https://github.com/Akshatsrii)**
+- 🌐 Portfolio: **https://protfolio-531z.vercel.app/**
 - 💬 Ask me about **MERN Stack, Socket.IO, Real-time Applications**
-- 📫 Reach me at: **akshatsrivastava1204@gmail.com**
+- 📫 Reach me at: **akshat.23ee495@rtu.ac.in**
 - ⚡ Fun fact: **Solved 302 DSA problems and participated in 50+ hackathons**
 
 <br clear="right"/>
