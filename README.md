@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Akshat Srivastava
-### Full Stack Engineer | Full Stack AI Engineer | Problem Solver
+### Full Stack AI Engineer | Problem Solver
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Akshatsrii&label=Profile%20views&color=ff6ec7&style=flat)
