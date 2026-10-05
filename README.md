@@ -19,7 +19,7 @@
 - 🌐 Portfolio: **https://protfolio-531z.vercel.app/**
 - 💬 Ask me about **MERN Stack, Socket.IO, Real-time Applications**
 - 📫 Reach me at: **akshat.23ee495@rtu.ac.in**
-- ⚡ Fun fact: **Solved 351+ DSA problems and participated in 50+ hackathons**
+- ⚡ Fun fact: **Solved 352+ DSA problems and participated in 50+ hackathons**
 
 <br clear="right"/>
 
