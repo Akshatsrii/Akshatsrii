@@ -20,7 +20,6 @@
 - 💬 Ask me about **MERN Stack, Socket.IO, Real-time Applications**
 - 📫 Reach me at: **akshat.23ee495@rtu.ac.in**
 - ⚡ Fun fact: **Solved 354 DSA problems and participated in 50+ hackathons**
-
 <br clear="right"/>
 
 ---
