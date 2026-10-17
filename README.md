@@ -50,7 +50,7 @@
 ### Tools & Cloud
 [![Tools](https://skillicons.dev/icons?i=aws,docker,git,github,postman,figma)](https://skillicons.dev)
 
----
+--
 
 ## 💡 Skills Summary:
 
