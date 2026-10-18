@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working as **Full Stack Engineer Intern @ Curious Team Learning**
-- 🌱 Learning **Firebase, Docker, WebRTC & LLD System Design**
+- 🌱 Learning **Firebase, Docker, WebRTC & System Design**
 - 👯 Looking to collaborate on **Open Source MERN Stack Projects**
 - 🌐 Portfolio: **https://protfolio-531z.vercel.app/**
 - 💬 Ask me about **MERN Stack, Socket.IO, Real-time Applications**
