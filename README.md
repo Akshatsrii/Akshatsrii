@@ -17,7 +17,7 @@
 - 🌱 Learning **Firebase, Docker, WebRTC & System Design**
 - 👯 Looking to collaborate on **Open Source MERN Stack Projects**
 - 🌐 Portfolio: **https://protfolio-531z.vercel.app/**
-- 💬 Ask me about **MERN Stack, Socket.IO, Real-time Applications**
+- 💬 Ask me about **MERN Stack, Socket.IO, Real-time Application**
 - 📫 Reach me at: **akshat.23ee495@rtu.ac.in**
 - ⚡ Fun fact: **Solved 361 DSA problems and participated in 50+ hackathons**
 <br clear="right"/>
