@@ -12,7 +12,6 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif">
 
 ## 🚀 About Me
-
 - 🔭 Currently working as **Full Stack Engineer Intern @ Curious Team Learning**
 - 🌱 Learning **Firebase, Docker, WebRTC & System Design**
 - 👯 Looking to collaborate on **Open Source MERN Stack Projects**
