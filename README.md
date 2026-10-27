@@ -31,7 +31,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Akshatsrivastava007)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff6ec7?style=for-the-badge&logo=vercel&logoColor=white)](https://protfolio-531z.vercel.app//)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatsrivastava1204@gmail.com)
-
 ---
 
 ## 🛠️ Tech Stack & Tools:
