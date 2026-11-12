@@ -73,7 +73,7 @@
 <td width="33%">
 
 ### Database & Tools
-- MongoDB, PostgreSQL
+- MongoDB, PostgreSQL, SQL
 - Git, GitHub, Postman
 
 </td>
