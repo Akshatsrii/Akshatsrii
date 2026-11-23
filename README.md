@@ -59,7 +59,7 @@
 - Angular, Three.js
 - JavaScript, TypeScript
 - Tailwind CSS, HTML/CSS
-
+- 
 </td>
 <td width="33%">
 
